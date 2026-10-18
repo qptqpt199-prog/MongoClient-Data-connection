@@ -14,12 +14,12 @@ A lightweight Python module designed for managing MongoDB databases, performing 
    git clone [https://github.com/qptqpt199-prog/Mongo-DB-Utils.git](https://github.com/qptqpt199-prog/Mongo-DB-Utils.git)
    cd Mongo-DB-Utils
 
-## Install required dependencies:
+## Install required dependencies & Run the script:
 ```bash
+Install:
 pip install pymongo
 
-## Run the script:
-```bash
+Run script:
 python main.py
 
    
