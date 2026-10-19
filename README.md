@@ -15,11 +15,15 @@ A lightweight Python module designed for managing MongoDB databases, performing 
    cd Mongo-DB-Utils
 
 ## Install required dependencies & Run the script:
-```bash
+
 Install:
+```bash
 pip install pymongo
-
+```
 Run script:
+```bash
 python main.py
+```
 
-   
+# Discord:
+[![Discord](https://img.shields.io/badge/Discord-Join%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/T7N7Gqy5uF)   
